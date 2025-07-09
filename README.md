@@ -1,6 +1,6 @@
-Photoshoot Image Processing GUI
+# Photoshoot Image Processing GUI
 
-A cross-platform C++ application using GLFW, OpenGL, and ImGui to:
+## A cross-platform C++ application using GLFW, OpenGL, and ImGui to:
 
 Load JPG images via file dialog
 
@@ -28,7 +28,7 @@ Undo/redo support with Ctrl+Z
 
 Save modified images as JPG
 
-Requirements:
+## Requirements:
 
 C++17 compiler (gcc, clang, MSVC)
 
@@ -43,5 +43,5 @@ stb_image and stb_image_write
 tinyfiledialogs
 
 
-License: MIT
+# License: MIT
 
